@@ -1,6 +1,7 @@
 <h1 align="center"><project-name></h1>
 
 <p align="center"><project-description></p>
+
 ## About
 
 - I made this project in a course from Digital Innovation One as a Netflix Homepage Clone. I didn't use any kinds of API, only HTML and CSS.
@@ -10,7 +11,7 @@
 
 - [Repo](https://github.com/sirluansier/funnyflix "Funnyflix Repo")
 
-- [Video](<Homepage url> "View")
+- [View](https://www.linkedin.com/posts/luanrosa-info_html-css-javascript-activity-6833519122010124288-vJM7 "View")
 
 
 ## Screenshots
